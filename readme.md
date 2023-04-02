@@ -31,3 +31,7 @@ to correctly specify the location of the file.
 - Add more chart types
 - Add more customization options
 - Add a user interface
+
+## Author
+
+- [@Akina](https://www.github.com/kaajjaak)
